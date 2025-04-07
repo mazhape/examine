@@ -3,7 +3,7 @@
 
 package Javadatatype;
 
-public class TypeCompatibilityExamples {
+public class TypeCompatibilityInvalidExamples {
     public static void main(String[] args) {
         // Invalid: Cannot assign boolean to numeric types
         int num1 = true;       // Compilation error
